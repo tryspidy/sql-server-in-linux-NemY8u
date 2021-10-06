@@ -1,0 +1,31 @@
+SQL means "Structured Query Language", and is used to *search* through 
+existing relational database management systems (RDBMS). 
+
+In 2020, the most used RDBMS options[1] are (most-lowest):
+1. Oracle DB
+2. MySQL 
+3. Microsoft SQL Server
+4. PostgreSQL
+5. SQLite
+
+Google trends (2020) ranked the same systems in the order:
+1. MySQL
+2. Microsoft SQL Server 
+3. PostgreSQL 
+4. Oracle DB
+5. SQLite 
+
+MySQL, PostgreSQL and SQLite are Open Source and 'Free'.
+
+- MySQL's shell handles JavaScript, Python and formerly Perl. 
+  You can find drivers for the mysql connectors in most languages.
+ 
+- PostgreSQL's interface layer is open to most languages. The 
+  psql shell interpets PL/pgSQL, a custom language for the DBMS. 
+
+- SQLite has a single custom shell language, but supports bindings
+  in most well known programming languages. SQLite is installed 
+  automatically on some Unix/Linux distributions. 
+
+References: 
+[1] https://db-engines.com/en/ranking
